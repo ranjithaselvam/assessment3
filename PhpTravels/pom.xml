@@ -16,7 +16,7 @@
 		<archetype.plugin>3.1.2</archetype.plugin>
 		<java.jdk>1.8</java.jdk>
 		<apache.ooxml>4.0.0</apache.ooxml>
-		<mysql.connector>8.0.18</mysql.connector>
+		<mysql.connector>8.0.28</mysql.connector>
 		<extentreports>3.1.5</extentreports>
 		<poi.ooxml>3.9</poi.ooxml>
 	</properties>
